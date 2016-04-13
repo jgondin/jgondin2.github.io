@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a math major corrently at Metis Data Science BootCamp.
+Most of my carear has been in Brazil as a lecturer and economic analyst.
+Interested in: 
+
+- Machine Learning
+- Python
+- Deep Learning
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jay.gondin@.com](mailto:jay.gondin@gmail.com)
